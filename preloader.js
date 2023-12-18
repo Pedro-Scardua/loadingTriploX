@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://pedro-scardua.github.io/loadingTriploX/loading.json',
+        path: 'https://pedro-scardua.github.io/loadingTriploX/Comp1.json',
     });
 }
 
