@@ -37,7 +37,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://lottie.host/embed/d1ad66fc-b558-4706-9189-97ff673450b8/fKqJqALW9D.json',
+        path: 'https://pedro-scardua.github.io/loadingTriploX/apptereza.json',
     });
 }
 
